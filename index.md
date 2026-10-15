@@ -69,25 +69,30 @@ We use personal information only for purposes consistent with the functionality 
 
 ## 4. Beta Testing and Feature Availability
 
-Humai is currently undergoing beta testing through Apple TestFlight.
+Humai Fitness App is currently undergoing beta testing through Apple TestFlight. Certain features are available in the current beta, while others remain disabled or under development.
 
-Certain features are under development or are not enabled in the current beta release.
+### Features Available in the Current Beta
 
-These include:
+**Nutrition Label Scanning:** Users can scan nutrition labels to extract nutritional information, including calories, macronutrients, ingredients, and serving sizes. Label scanning uses on-device processing and does not require sending scanned images to external AI services.
+
+**Exercise Posture Analysis:** Users can access camera-based exercise posture and movement analysis. This functionality uses on-device processing to analyze movements and provide feedback without transmitting camera frames to external AI services.
+
+Other available features include supported fitness tracking, nutrition logging, goal management, and progress monitoring.
+
+### Features Currently Disabled
+
+The following server-based AI features are hidden or disabled in the current beta:
 
 - AI-powered meal photo analysis
 - AI-generated fitness and nutrition recommendations
-- AI-powered nutrition-label scanning
 - Leo AI Coach
-- AI-assisted exercise posture analysis
+- Server-based AI processing for nutrition-label scanning and exercise posture analysis
 
-These AI-powered features are currently hidden or disabled in beta mode and are not available for general use in the current beta.
+These features may become available in future releases.
 
-Apple HealthKit integration is not enabled in the current beta.
+Apple HealthKit integration and microphone-based functionality are not enabled in the current beta.
 
-Microphone-based functionality is also not enabled in the current beta.
-
-We may introduce additional functionality in future releases. Where these changes affect personal-data processing, we will update this Privacy Policy as appropriate.
+We will update this Privacy Policy when new features become available or when changes affect how personal information is collected, processed, or shared.
 
 ## 5. Artificial Intelligence and Third-Party AI Services
 
@@ -204,15 +209,21 @@ We may request information necessary to verify the identity of the requester bef
 
 Requests will be handled in accordance with applicable legal requirements and available technical capabilities.
 
-## 12. Children's Privacy
+## 12. Age Eligibility and Children's Privacy
 
-Humai is intended for general fitness and wellness use.
+Humai Fitness App is intended exclusively for adults aged 18 years or older.
 
-The application is not specifically designed to collect personal information from children.
+Users must be at least 18 years old to create an account or use the application during the current beta testing period.
 
-Parents and guardians should supervise minors' use of the application and avoid providing children's sensitive personal information without appropriate authorization.
+Humai is not intended for children under 18, and we do not knowingly collect personal information from individuals under 18.
 
-If you believe a child has provided personal information inappropriately, contact us so that we can review the matter.
+If we become aware that personal information has been collected from an individual under 18, we will take appropriate steps to delete that information, subject to applicable legal requirements.
+
+Parents or guardians who believe that a minor has provided personal information may contact us at:
+
+**sobbani.prashanth@gmail.com**
+
+We may request reasonable information to investigate and respond to such requests.
 
 ## 13. International Data Processing
 
