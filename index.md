@@ -1,120 +1,256 @@
-# Humai Fitness App — Privacy Policy
+# Privacy Policy — Humai Fitness App
 
-**Last updated:** October 14, 2026  
-**Operator:** Prashanth Sobbani  
-**Contact:** sobbani.prashanth@gmail.com
+**Effective Date:** October 14, 2026  
+**Last Updated:** October 14, 2026
+
+**Developer and Operator:** Prashanth Sobbani  
+**Contact Email:** sobbani.prashanth@gmail.com  
+**Privacy Policy Website:** https://sobbani16.github.io/humai-privacy/
 
 ## 1. Introduction
 
-Humai Fitness App ("Humai," "we," "our," or "us") is operated by Prashanth Sobbani. Humai helps users track fitness activities, analyze meals, understand nutrition information, and receive personalized wellness recommendations.
+Welcome to Humai Fitness App ("Humai," "we," "us," or "our"), a fitness and wellness application developed and operated by Prashanth Sobbani.
 
-This Privacy Policy explains how we collect, use, process, share, retain, and protect information when users interact with Humai, including its beta features.
+Humai is designed to help users manage fitness goals, track nutrition, record physical activities, and monitor wellness progress.
+
+We respect your privacy and are committed to explaining how information is collected, used, stored, and shared.
+
+This Privacy Policy applies to Humai, including beta versions distributed through Apple's TestFlight platform.
 
 ## 2. Information We Collect
 
-Depending on the features used, Humai may process the following categories of information:
+Depending on the features available and how you use the application, Humai may collect or process the following information.
 
-- **Account information:** Email address, account identifiers, and profile details.
-- **Fitness information:** Height, weight, fitness goals, activity records, exercise sessions, and progress measurements.
-- **Nutrition information:** Food logs, meal photographs, ingredients, serving sizes, calories, and nutritional values.
-- **Health information:** Health and activity information authorized through Apple Health, including permitted activity, step, and other fitness measurements.
-- **Camera information:** Images captured for meal analysis, nutrition-label scanning, and exercise posture analysis.
-- **AI interactions:** Questions, messages, and other information users provide to the Leo AI coach and recommendation features.
-- **Technical information:** Information necessary for app functionality, troubleshooting, security, and service reliability.
+### Account and Profile Information
 
-Not every category is necessarily collected from every user.
+- Name and email address
+- Account identifiers and authentication information
+- Age or date of birth, when provided
+- Height, weight, and fitness goals
+- Dietary preferences and fitness preferences
+
+### Fitness and Activity Information
+
+- Workout records and exercise history
+- Activity information entered by users
+- Fitness goals and progress measurements
+- Calorie targets and activity-related calculations
+
+### Nutrition Information
+
+- Food and meal records
+- Calories, protein, carbohydrates, fats, and other nutritional information
+- Ingredients and serving sizes
+- Dietary preferences, allergies, and restrictions
+- Nutrition information manually entered by users
+
+### Technical Information
+
+We may process information necessary to operate, maintain, troubleshoot, and secure the application, including application version, device information, error reports, and service request information.
+
+The specific information processed depends on the functionality available in the version of Humai you use.
 
 ## 3. How We Use Information
 
 Humai uses information to:
 
-- Provide personalized fitness and nutrition recommendations.
-- Analyze food photographs and estimate nutritional content.
-- Extract and calculate nutrition information from product labels.
-- Provide AI-powered coaching through Leo.
-- Analyze exercise movements and provide posture feedback.
-- Synchronize authorized health and fitness measurements.
-- Maintain user progress and app functionality.
-- Troubleshoot errors and protect the service.
+- Create and maintain user accounts
+- Provide fitness and nutrition tracking
+- Display personalized goals and progress
+- Calculate nutritional information
+- Maintain workout and meal history
+- Provide available fitness and wellness functionality
+- Troubleshoot application errors
+- Maintain application security
+- Respond to support requests
+- Improve application reliability
 
-AI-generated recommendations may contain inaccuracies and should not be treated as professional medical advice.
+We use personal information only for purposes consistent with the functionality of the application and this Privacy Policy.
 
-## 4. Artificial Intelligence Processing
+## 4. Beta Testing and Feature Availability
 
-Humai uses AI-powered features, including meal analysis, recommendations, nutrition-label scanning, Leo coaching, and exercise posture analysis.
+Humai is currently undergoing beta testing through Apple TestFlight.
 
-OpenAI is an AI service provider used by Humai. Depending on the implementation, information submitted to AI-powered features may be transmitted to OpenAI for processing.
+Certain features are under development or are not enabled in the current beta release.
 
-The exact categories of information transmitted, whether camera frames or audio are uploaded, and the applicable provider retention settings must be confirmed before this policy is published.
+These include:
 
-Users should avoid submitting unnecessary sensitive personal information through AI features.
+- AI-powered meal photo analysis
+- AI-generated fitness and nutrition recommendations
+- AI-powered nutrition-label scanning
+- Leo AI Coach
+- AI-assisted exercise posture analysis
 
-## 5. Third-Party Services
+These AI-powered features are currently hidden or disabled in beta mode and are not available for general use in the current beta.
 
-Humai uses the following services:
+Apple HealthKit integration is not enabled in the current beta.
 
-**OpenAI:** Provides AI processing for supported application features.
+Microphone-based functionality is also not enabled in the current beta.
 
-**Railway:** Hosts backend infrastructure and application data services.
+We may introduce additional functionality in future releases. Where these changes affect personal-data processing, we will update this Privacy Policy as appropriate.
 
-**Apple HealthKit:** Enables authorized access to health and fitness information through Apple's permission system.
+## 5. Artificial Intelligence and Third-Party AI Services
 
-Data is shared with service providers only as needed to support the functionality described in this policy, subject to the actual implementation and applicable provider agreements.
+Humai is being developed with AI-powered capabilities that may use OpenAI technology.
 
-Additional providers, if introduced, will be reflected in an updated policy.
+In the current beta configuration, AI-powered features are hidden or disabled.
 
-## 6. Apple Health Data
+When AI features become available, information submitted to those features may be processed by external AI service providers to generate responses, analyze submitted content, or provide personalized recommendations.
 
-Access to Apple Health information requires user authorization.
+Before enabling features that transmit personal information to third-party AI providers, we will provide appropriate disclosures and obtain consent where required.
 
-Users can manage or revoke Health permissions through their device settings.
+OpenAI Privacy Policy: https://openai.com/policies/privacy-policy/
 
-Humai's handling of HealthKit information must comply with Apple's applicable requirements, including restrictions on advertising and other unauthorized uses.
+## 6. Apple Health and Device Permissions
 
-**Before publication, confirm:** Which HealthKit data types Humai reads or writes, whether HealthKit data is stored on Humai servers, and whether any such data is transmitted to AI providers.
+Humai may support additional device integrations in future versions.
 
-## 7. Camera and Microphone Permissions
+### Apple HealthKit
 
-Humai may request camera access for meal photographs, nutrition-label scanning, and exercise posture analysis.
+Apple HealthKit integration is not enabled in the current beta release.
 
-Microphone access may be requested for Leo voice interactions if voice input is enabled.
+The current beta does not request HealthKit permissions through its available functionality.
 
-Permissions are requested through the operating system and may be managed through device settings.
+Future versions may request permission to access selected health and fitness information.
 
-The storage, transmission, and deletion behavior for images, video frames, and audio must be verified against the released beta implementation.
+Users will be able to manage such permissions through Apple's operating-system controls.
 
-## 8. Data Retention and Security
+### Camera
 
-Humai retains information as necessary to provide its services, subject to its implemented retention practices and applicable legal requirements.
+Humai may use camera functionality for supported features such as capturing meal photographs, scanning nutrition labels, or analyzing exercise movements.
 
-Application data may be stored using Railway-hosted infrastructure. Backup retention, log retention, encryption practices, and deletion timelines will be specified once verified.
+Camera access is subject to device permissions and the availability of the relevant application features.
 
-No internet-based service can guarantee absolute security.
+### Microphone
 
-## 9. Account Deletion and Data Requests
+Microphone-based functionality is not enabled in the current beta release.
 
-Humai's in-app account deletion feature is currently under development.
+Humai does not request microphone access through its available beta functionality.
 
-Users may contact **sobbani.prashanth@gmail.com** to request assistance with personal-data access, correction, export, or deletion.
+Future voice-enabled features may request microphone permission.
 
-The available request-handling procedures, identity-verification process, completion timelines, and any legally required retention exceptions must be confirmed before publication.
+Users may manage device permissions through their device settings.
 
-Humai intends to provide in-app account deletion for accounts created through the application.
+## 7. Data Storage and Infrastructure
 
-## 10. Children's Privacy
+Humai uses Railway-hosted backend infrastructure to support application functionality.
 
-Humai's intended age eligibility and procedures for handling information relating to minors must be confirmed before public release.
+Depending on the available features, information may be transmitted to and stored through Humai's backend services.
 
-## 11. Changes to This Privacy Policy
+This may include account information, profile settings, meal records, workout information, and other application data.
 
-We may update this Privacy Policy as Humai evolves, including changes to AI functionality, integrations, data practices, and applicable requirements.
+Railway provides infrastructure services and may process information as necessary to operate those services.
 
-We will update the effective date when material changes are made and provide additional notice when required.
+Railway Privacy Policy: https://railway.com/legal/privacy
 
-## 12. Contact
+We take reasonable steps to protect information from unauthorized access, disclosure, alteration, and misuse.
 
-For privacy-related questions or requests:
+However, no method of electronic storage or internet transmission is completely secure.
+
+## 8. Data Sharing
+
+Humai may share information with service providers as necessary to operate the application.
+
+These may include:
+
+- Railway, for backend hosting and infrastructure
+- Apple, for TestFlight distribution and operating-system services
+- OpenAI, when AI-powered functionality is enabled and used
+
+We do not use Apple HealthKit data for advertising.
+
+We may disclose information when required by applicable law or when reasonably necessary to protect the security and integrity of the application.
+
+## 9. Data Retention
+
+Humai retains personal information as needed to provide available application functionality, maintain security, resolve technical issues, and comply with applicable legal obligations.
+
+Retention may depend on the type of information, the purpose for which it was collected, and applicable operational requirements.
+
+Some information may remain temporarily in operational logs or backups after deletion from active application systems.
+
+Users may contact us for information about retention practices or to request deletion of their personal information.
+
+## 10. Account Deletion
+
+Humai includes an account deletion implementation designed to allow users to initiate deletion of their accounts.
+
+This functionality has been implemented and is undergoing final verification in the beta environment.
+
+Users may also request assistance with account deletion by contacting:
+
+**sobbani.prashanth@gmail.com**
+
+We may request reasonable verification of account ownership before fulfilling a deletion request.
+
+Deletion requests may be subject to applicable legal requirements and limited retention obligations.
+
+Uninstalling Humai does not automatically delete information stored in backend systems.
+
+## 11. Access, Correction, and Data Export
+
+Users may contact us to request:
+
+- Access to personal information associated with their account
+- Correction of inaccurate information
+- Export of available personal information
+- Deletion of personal information
+
+Requests can be submitted to:
+
+**sobbani.prashanth@gmail.com**
+
+We may request information necessary to verify the identity of the requester before disclosing or modifying account information.
+
+Requests will be handled in accordance with applicable legal requirements and available technical capabilities.
+
+## 12. Children's Privacy
+
+Humai is intended for general fitness and wellness use.
+
+The application is not specifically designed to collect personal information from children.
+
+Parents and guardians should supervise minors' use of the application and avoid providing children's sensitive personal information without appropriate authorization.
+
+If you believe a child has provided personal information inappropriately, contact us so that we can review the matter.
+
+## 13. International Data Processing
+
+Humai and its service providers may process information in the United States or other locations where infrastructure and services operate.
+
+Where applicable, we will handle international processing in accordance with relevant privacy and data-protection requirements.
+
+## 14. Your Privacy Choices
+
+Depending on the available functionality, users may:
+
+- Update supported account and profile information
+- Manage device permissions
+- Choose whether to use optional features
+- Request access to or correction of personal information
+- Request export or deletion of personal information
+- Contact us regarding privacy concerns
+
+Some application features may not function when necessary permissions or information are unavailable.
+
+## 15. Changes to This Privacy Policy
+
+We may update this Privacy Policy as Humai evolves.
+
+Updates may reflect changes in application features, data practices, third-party services, security measures, or legal requirements.
+
+When changes occur, we will update the date at the top of this policy.
+
+Where required, we will provide additional notice or obtain consent.
+
+## 16. Contact Us
+
+For privacy questions, account deletion requests, data access requests, or other concerns, contact:
 
 **Prashanth Sobbani**  
-Humai Fitness App  
+Developer and Operator — Humai Fitness App
+
 **Email:** sobbani.prashanth@gmail.com
+
+**Privacy Policy:**  
+https://sobbani16.github.io/humai-privacy/
